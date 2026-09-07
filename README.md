@@ -5,6 +5,5 @@
 ### ~DS18B20~
 ### Lidar
 ### Flex Sensor
-### MQ-13
 ### GSR
 
