@@ -2,5 +2,6 @@
 ## MOTOR TYPES
 ### SG90 SERVO
 ### MG90 SERVO
-
+### BLDC MOTOR
+### DC MOTOR
 
