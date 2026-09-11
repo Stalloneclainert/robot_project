@@ -3,4 +3,5 @@
 ### SG90 SERVO
 ### MG90 SERVO
 ### DC MOTOR
+### BLDC
 
